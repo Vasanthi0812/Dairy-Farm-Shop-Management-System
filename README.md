@@ -37,3 +37,8 @@ Invoices: In this section, admin can view all generated invoices/receipts.
 Reports: In this section, admin can generate two reports, one is B/w date and another one is for sales.
 
 Admin can also update his profile, change the password and recover the password.
+
+### Admin Credential
+
+Username: admin
+Password: Test@123
